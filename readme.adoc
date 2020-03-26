@@ -1,0 +1,4 @@
+# Playtime with Shared Libraries
+
+This is a simple toy project demonstrating the creation and
+runtime usage of `*.so` files from various languages.
